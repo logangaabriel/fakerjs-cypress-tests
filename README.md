@@ -80,5 +80,5 @@ Feel free to reach out if you have any questions or need further assistance.
 
 - Email: [contatologangabriel@gmail.com](contatologangabriel@gmail.com)
 - LinkedIn: [Gabriel Logan](https://www.linkedin.com/in/gabriel-logan/)
-- [Medium - Integrando o Faker.js em seus testes cypress](https://medium.com/@gabriellogan.0804/guardando-segredos-com-cypress-46ecce152db1)
+- [Medium - Integrando o Faker.js em seus testes cypress](https://medium.com/@gabriellogan.0804/integrando-o-faker-js-em-seus-testes-cypress-b98e4ec4db8e)
 
